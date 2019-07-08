@@ -15,3 +15,5 @@ This kernel is based on *datasets* from
 <p align="center">
 <img src="img/img2.png" width="300px" />
 </p>
+
+<small><i>The red dashed-line separate the train and test data</i></small>
